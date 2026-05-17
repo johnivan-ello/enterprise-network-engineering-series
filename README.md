@@ -13,7 +13,7 @@ Click on any day below to view the dedicated implementation steps, configuration
 | Day | Lab Focus | Core Technologies Deployed | Topology Preview |
 | :---: | :--- | :--- | :---: |
 | **01** | [IPv4 Routing Protocols](./Day%201%20-%20IPv4%20Routing%20Protocols/) | Static, Default, RIPv2, OSPFv2, EIGRP Baseline | <img src="./Day 1 - IPv4 Routing Protocols/Topology.jpg" width="220"> |
-| **02** | [OSPF Broadcast Multi-Access](./Day%202%20-%20OSPF%20Broadcast%20Multi-Access%20(DR%20BDR)/) | DR/BDR Elections, Priority Manipulation, LSAs | <img src="./Day 2 - OSPF Broadcast Multi-Access (DR BDR)/Topology.jpg" width="220"> |
+| **02** | [OSPF Broadcast Multi-Access](./Day%202%20-%20OSPF%20Broadcast%20Multi-Access%20(DR%20and%20BDR%20Election)/) | DR/BDR Elections, Priority Manipulation, LSAs | <img src="./Day 2 - OSPF Broadcast Multi-Access (DR and BDR Election)/Topology.jpg" width="220"> |
 | **03** | [Inter-VLAN Routing](./Day%203%20-%20Inter-VLAN%20Routing%20(Router-on-a-Stick)/) | Router-on-a-Stick, IEEE 802.1Q Subinterfaces | <img src="./Day 3 - Inter-VLAN Routing (Router-on-a-Stick)/ROAS Topology.jpg" width="220"> |
 | **04** | [Multilayer Switching](./Day%204%20-%20Multilayer%20Switching%20(SVI,%20L3%20Switch)/) | SVI Interfaces, Layer 3 EtherChannel, Routed Ports | <img src="./Day 4 - Multilayer Switching (SVI, L3 Switch Routing)/Multilayer Switching Topology.jpg" width="220"> |
 | **05** | [EtherChannel Aggregation](./Day%205%20-%20EtherChannel%20(LACP,%20PAgP,%20Static)/) | LACP, PAgP, Static Port-Channel Bundling | <img src="./Day 5 - EtherChannel (LACP, PAgP, Static)/EtherChannel Topology.jpg" width="220"> |
